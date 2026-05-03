@@ -1,0 +1,16 @@
+# Kotlin
+.gradle/
+build/
+out/
+
+# Kotlin/Java
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws

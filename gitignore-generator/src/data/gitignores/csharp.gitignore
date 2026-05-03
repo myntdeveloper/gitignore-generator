@@ -1,0 +1,20 @@
+# C#
+bin/
+obj/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider / VS
+.idea/
+.vs/
+TestResults/

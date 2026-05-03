@@ -1,0 +1,23 @@
+# Golang
+bin/
+pkg/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.out
+cover.out
+
+# Workspaces
+go.work
+go.work.sum
+
+# Vendor
+vendor/
+
+# IDE
+.idea/
+.vscode/

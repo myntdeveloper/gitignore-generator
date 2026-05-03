@@ -1,0 +1,15 @@
+# Swift
+.build/
+DerivedData/
+*.swiftpm/
+Packages/
+Package.resolved
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcworkspace
+*.xcodeproj/project.xcworkspace/
+
+# CocoaPods
+Pods/

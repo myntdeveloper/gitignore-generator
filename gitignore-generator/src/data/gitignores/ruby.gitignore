@@ -1,0 +1,16 @@
+# Ruby
+*.gem
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/coverage/
+/pkg/
+/node_modules/
+
+# Bundler
+Gemfile.lock
+
+# IDE
+.idea/
+.vscode/

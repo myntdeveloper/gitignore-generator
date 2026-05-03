@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+
+# Build tools
+target/
+build/
+out/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.project
+.classpath
+.settings/

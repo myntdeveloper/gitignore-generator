@@ -1,0 +1,17 @@
+# PHP
+vendor/
+composer.lock
+
+# Frameworks
+storage/*.key
+bootstrap/cache/*
+
+# PHPUnit
+.phpunit.result.cache
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/

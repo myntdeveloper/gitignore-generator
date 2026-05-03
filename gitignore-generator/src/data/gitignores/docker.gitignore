@@ -1,0 +1,9 @@
+# Docker
+Dockerfile.local
+docker-compose.override.yml
+*.tar
+*.pid
+*.seed
+*.log
+.env
+.env.*

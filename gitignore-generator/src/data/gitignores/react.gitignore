@@ -1,0 +1,16 @@
+# React
+node_modules/
+build/
+dist/
+.cache/
+.parcel-cache/
+.next/
+.nuxt/
+.turbo/
+
+# Tests
+coverage/
+
+# Env
+.env
+.env.*

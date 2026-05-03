@@ -1,0 +1,17 @@
+# TypeScript
+*.tsbuildinfo
+
+# Build output
+dist/
+build/
+lib/
+
+# Node
+node_modules/
+
+# Coverage
+coverage/
+
+# Env
+.env
+.env.*
